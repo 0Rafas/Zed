@@ -1,9 +1,6 @@
 <div align="center">
 
-```
-Professional Payload Builder — Built with Rust UI + C++17 Backend
 
-```
 
 **Professional Payload Builder — Built with Rust UI + C++17 Backend**
 
